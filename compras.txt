@@ -2,4 +2,3 @@ carne
 naranja
 cebolla
 alimento para mascotas
-lechuga
